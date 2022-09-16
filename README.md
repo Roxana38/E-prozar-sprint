@@ -1,10 +1,12 @@
 # E-Prozar Sprint 
   Small website with a group of random product
+  
 -link here : https://roxana38.github.io/E-prozar-sprint-1/
 
 # Team Member
 
 -Ruxanda Stanciu
+
 -Traian Belciug
 
  Our project is still in development and currently we just finished the 1st sprint.
