@@ -1,6 +1,13 @@
 # E-Prozar Sprint 
   Small website with a group of random product
 -link here : https://roxana38.github.io/E-prozar-sprint-1/
+
+# Team Member
+
+-Ruxanda Stanciu
+-Traian Belciug
+
+ Our project is still in development and currently we just finished the 1st sprint.
 ## Story
 
 You and a friend had the idea to create a website for the local grocery store down the street after you heard them considering to try out this "online thing where the people are all going these days".
@@ -32,4 +39,6 @@ Coffee mug full, coding mode on, let's create E-Prozar !
 
 5. The section containing the random product of the day shows today's date in the format day_number - month_word (1 July instead of 01.07)
     - When opening the page with `npm start` in the section with the random offer of the day, today's date is displayed in the format  day_number - month_word (1 July instead of 01.07)
+    
+    
 
