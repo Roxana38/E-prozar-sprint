@@ -1,23 +1,26 @@
 # E-Prozar Sprint 
   Small website with a group of random product
   
--link here : https://roxana38.github.io/E-prozar-sprint-1/
+    -link here : https://roxana38.github.io/E-prozar-sprint-1/
 
 # Team Member
 
--Ruxanda Stanciu
+  -Ruxanda Stanciu
 
--Traian Belciug
+  -Traian Belciug
 
  Our project is still in development and currently we just finished the 1st sprint.
  
 # For the frontend we used:
 
-   - React
+   - React                                            
    - Material UI
    - CSS
+   - JavaScript
    - Visual c++
    
+   ![image react](https://user-images.githubusercontent.com/98492894/190628977-1b9b568b-0903-408d-917d-57cca6a1ad66.jpg)          ![image visual](https://user-images.githubusercontent.com/98492894/190629094-e2011a10-0b8c-451a-abdd-d798b7b82819.jpg)
+
 ## Story
 
 You and a friend had the idea to create a website for the local grocery store down the street after you heard them considering to try out this "online thing where the people are all going these days".
@@ -52,3 +55,4 @@ Coffee mug full, coding mode on, let's create E-Prozar !
     
     
 
+![e prozar sprint](https://user-images.githubusercontent.com/98492894/190629510-c14539da-985a-424c-b5de-dc572613ff7e.jpg)     ![e prozar sprint2](https://user-images.githubusercontent.com/98492894/190629575-d59b1238-19c8-4751-8bc0-d7f7e9ec1b21.jpg)
