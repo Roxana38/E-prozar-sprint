@@ -1,5 +1,6 @@
-# E-Prozar Sprint 1
-
+# E-Prozar Sprint 
+  Small website with a group of random product
+-
 ## Story
 
 You and a friend had the idea to create a website for the local grocery store down the street after you heard them considering to try out this "online thing where the people are all going these days".
@@ -32,22 +33,3 @@ Coffee mug full, coding mode on, let's create E-Prozar !
 5. The section containing the random product of the day shows today's date in the format day_number - month_word (1 July instead of 01.07)
     - When opening the page with `npm start` in the section with the random offer of the day, today's date is displayed in the format  day_number - month_word (1 July instead of 01.07)
 
-## General requirements
-
-None
-
-## Hints
-
-- once you start the project you first need to install the react library with `npm install`
-- once all the react libraries are installed, you can start the project  with `npm start`
-- to reduce the amount of CSS used, you can import the bootstrap library
-
-## Background materials
-
-- <i class="far fa-exclamation"></i> [Introduction to JSX](https://reactjs.org/docs/introducing-jsx.html)
-- <i class="far fa-exclamation"></i> [Display lists in React](https://scotch.io/starters/react/handling-lists-in-react-jsx)
-- <i class="far fa-book-open"></i> [Importing css files to react](https://create-react-app.dev/docs/adding-a-stylesheet/)
-- <i class="far fa-book-open"></i> [Adding css styles to react](https://www.w3schools.com/react/react_css.asp)
-- <i class="far fa-book-open"></i> [Debugging a React project](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
-- <i class="far fa-book-open"></i> [JS Date functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
-- <i class="far fa-book-open"></i> [JS String functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
