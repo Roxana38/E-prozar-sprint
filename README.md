@@ -10,6 +10,14 @@
 -Traian Belciug
 
  Our project is still in development and currently we just finished the 1st sprint.
+ 
+# For the frontend we used:
+
+   - React
+   - Material UI
+   - CSS
+   - Visual c++
+   
 ## Story
 
 You and a friend had the idea to create a website for the local grocery store down the street after you heard them considering to try out this "online thing where the people are all going these days".
